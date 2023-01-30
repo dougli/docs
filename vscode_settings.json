@@ -1,0 +1,46 @@
+{
+  "workbench.colorTheme": "Default Dark+",
+  "[python]": {
+    "editor.rulers": [88]
+  },
+  "[typescriptreact]": {
+    "editor.rulers": [80, 120]
+  },
+  "[typescript]": {
+    "editor.rulers": [80, 120]
+  },
+  "editor.minimap.enabled": false,
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "python.analysis.indexing": true,
+  "python.formatting.provider": "black",
+  "isort.importStrategy": "fromEnvironment",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "explorer.confirmDragAndDrop": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "explorer.confirmDelete": false,
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/node_modules": true
+  },
+  "editor.inlineSuggest.enabled": true,
+  "editor.rulers": [88],
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": true,
+    "plaintext": false,
+    "markdown": false,
+    "python": true
+  },
+  "files.restoreUndoStack": false,
+  "gitlens.hovers.currentLine.over": "line",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "gitlens.views.searchAndCompare.files.layout": "list",
+  "gitlens.views.branches.avatars": false,
+  "gitlens.views.searchAndCompare.avatars": false,
+  "gitlens.codeLens.enabled": false,
+  "html.format.contentUnformatted": "",
+  "git.mergeEditor": true
+}
