@@ -39,6 +39,7 @@ export EDITOR='emacs'
 brew install thefuck
 brew install emacs
 brew install fzf
+brew install gh
 
 # Increase keyboard repeat rate to 🚀 speed
 defaults write NSGlobalDomain KeyRepeat -int 1
