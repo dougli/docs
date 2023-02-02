@@ -31,7 +31,7 @@ plugins=(
 export EDITOR='emacs'
 ```
 
-4. Install [homebrew](https://brew.sh/)
+4. Install [homebrew](https://brew.sh/).
 5. Run this blob in the terminal:
 
 ```sh
@@ -51,5 +51,7 @@ git config --global user.email "lidouglas@gmail.com"
 ```
 
 6. Get the [Powerlevel10k](https://github.com/romkatv/powerlevel10k) theme for zsh.
+   Install the prerequisite fonts and configure the theme using `p10k configure`.
 7. Install [Visual Studio Code](https://code.visualstudio.com/download).
 8. Run `shell command` in VSCode to install the `code` command in the terminal.
+9. Authenticate with Github by running `gh auth login` and following the instructions.
